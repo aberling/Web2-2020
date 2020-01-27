@@ -1,5 +1,5 @@
 This is
-my
+(not) my
 poem.
 
 I love to eat and
